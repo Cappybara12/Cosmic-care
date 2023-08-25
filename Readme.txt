@@ -20,8 +20,8 @@
 
 To run the website locally, follow these steps:
 
-1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd [your_project_directory]`
+1. Clone the repository: `git clone https://github.com/Cappybara12/Cosmic-care.git`
+2. Navigate to the project directory: `cd index.html`
 3. Open `index.html` in a web browser.
 
 ## Usage
