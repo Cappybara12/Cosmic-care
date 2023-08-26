@@ -1,10 +1,9 @@
-# [Your Project Name]
+# Cosmic_care
 
-![Project Banner](project_banner.jpg)
 
 ## Description
 
-[Your Project Name] is a space-themed website that aims to provide information about space exploration, astronaut nutrition, and the challenges of long-duration space missions. The website showcases a variety of content, including details about astronaut diets, the latest trends in space technology, and AI solutions for space-related problems.
+Cosmic_care is a space-themed website that aims to provide information about space exploration, astronaut nutrition, and the challenges of long-duration space missions. The website showcases a variety of content, including details about astronaut diets, the latest trends in space technology, and AI solutions for space-related problems.
 
 ## Features
 
@@ -30,14 +29,15 @@ Explore different sections of the website to learn about astronaut nutrition, AI
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/1b9a1dcf-1fd6-48ef-96d8-60c434cfe4cf"
+![Homepage-2]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/98dd7e9c-0588-4d10-a1f2-e51e4ba85692"
+
 *Homepage showcasing key features and navigation menu.*
 
-![Astronaut Nutrition](screenshots/astronaut_nutrition.png)
+![Astronaut Nutrition]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/3d2ece40-302a-478a-973b-219cc45545c0"
+
 *Detailed information about astronaut dietary plans.*
 
-![AI Solutions for Space](screenshots/ai_solutions.png)
-*Exploring AI models' applications in solving space-related challenges.*
 
 ## License
 
