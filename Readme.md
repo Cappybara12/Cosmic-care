@@ -29,13 +29,13 @@ Explore different sections of the website to learn about astronaut nutrition, AI
 
 ## Screenshots
 
-![Homepage]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/1b9a1dcf-1fd6-48ef-96d8-60c434cfe4cf"
-![Homepage-2]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/98dd7e9c-0588-4d10-a1f2-e51e4ba85692"
+![Homepage](https://github.com/Cappybara12/Cosmic-care/assets/122734275/1b9a1dcf-1fd6-48ef-96d8-60c434cfe4cf)
+![Homepage-2](https://github.com/Cappybara12/Cosmic-care/assets/122734275/98dd7e9c-0588-4d10-a1f2-e51e4ba85692)
 
 *Homepage showcasing key features and navigation menu.*
 
-![Astronaut Nutrition]"https://github.com/Cappybara12/Cosmic-care/assets/122734275/3d2ece40-302a-478a-973b-219cc45545c0"
-
+![Astronaut Nutrition](https://github.com/Cappybara12/Cosmic-care/assets/122734275/3d2ece40-302a-478a-973b-219cc45545c0)
+![Astronaut Nutrition2](https://github.com/Cappybara12/Cosmic-care/assets/122734275/f1efd31c-1d3a-4f3a-9785-1a811b58a8c9)
 *Detailed information about astronaut dietary plans.*
 
 
